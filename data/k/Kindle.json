@@ -1,0 +1,15 @@
+{
+  "kindle": {
+    "word": "kindle",
+    "phonetic": "/ˈkɪndl/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To ignite or inspire",
+          "example": "The speech kindled hope."
+        }
+      ]
+    }
+  }
+}

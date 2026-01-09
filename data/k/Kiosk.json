@@ -1,0 +1,15 @@
+{
+  "kiosk": {
+    "word": "kiosk",
+    "phonetic": "/ˈkiːɒsk/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To sell from a kiosk",
+          "example": "They kiosked newspapers."
+        }
+      ]
+    }
+  }
+}

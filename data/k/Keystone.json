@@ -1,0 +1,15 @@
+{
+  "keystone": {
+    "word": "keystone",
+    "phonetic": "/ˈkiːstəʊn/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To serve as a central support",
+          "example": "Trust keystones society."
+        }
+      ]
+    }
+  }
+}

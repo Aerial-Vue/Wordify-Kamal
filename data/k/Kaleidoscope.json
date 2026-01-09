@@ -1,0 +1,15 @@
+{
+  "kaleidoscope": {
+    "word": "kaleidoscope",
+    "phonetic": "/kəˈlaɪdəskəʊp/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To change rapidly in pattern",
+          "example": "The scene kaleidoscoped."
+        }
+      ]
+    }
+  }
+}

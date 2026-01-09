@@ -1,0 +1,16 @@
+{
+  "keyword": {
+    "word": "keyword",
+    "phonetic": "/ˈkiːwɜːd/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To assign keywords",
+          "example": "The article was keyworded."
+        }
+      ]
+    }
+  }
+}
+

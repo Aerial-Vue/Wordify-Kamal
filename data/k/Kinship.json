@@ -1,0 +1,15 @@
+{
+  "kinship": {
+    "word": "kinship",
+    "phonetic": "/ˈkɪnʃɪp/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To establish a family connection",
+          "example": "They kinshiped closely."
+        }
+      ]
+    }
+  }
+}

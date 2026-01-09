@@ -1,0 +1,15 @@
+{
+  "knuckle": {
+    "word": "knuckle",
+    "phonetic": "/ˈnʌkəl/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To strike with the knuckles",
+          "example": "He knuckled the door."
+        }
+      ]
+    }
+  }
+}
