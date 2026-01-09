@@ -1,0 +1,21 @@
+{
+  "highway": {
+    "word": "highway",
+    "phonetic": "/ˈhaɪweɪ/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A main public road",
+          "example": "The highway is busy."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To transport via main roads",
+          "example": "Goods were highwayed."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "holiday": {
+    "word": "holiday",
+    "phonetic": "/ˈhɒlɪdeɪ/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A day of celebration or rest",
+          "example": "Tomorrow is a holiday."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To spend time on vacation",
+          "example": "They holidayed in Goa."
+        }
+      ]
+    }
+  }
+}

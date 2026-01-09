@@ -1,0 +1,15 @@
+{
+  "harvest": {
+    "word": "harvest",
+    "phonetic": "/ˈhɑːvɪst/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To gather crops",
+          "example": "Farmers harvest rice."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "host": {
+    "word": "host",
+    "phonetic": "/həʊst/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A person who receives guests",
+          "example": "She is the host."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To organize or receive",
+          "example": "They hosted the event."
+        }
+      ]
+    }
+  }
+}

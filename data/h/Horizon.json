@@ -1,0 +1,21 @@
+{
+  "horizon": {
+    "word": "horizon",
+    "phonetic": "/həˈraɪzn/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The line where earth meets sky",
+          "example": "The sun set on the horizon."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To limit or expand views",
+          "example": "Travel horizons the mind."
+        }
+      ]
+    }
+  }
+}

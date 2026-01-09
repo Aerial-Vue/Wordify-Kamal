@@ -1,0 +1,21 @@
+{
+  "hunger": {
+    "word": "hunger",
+    "phonetic": "/ˈhʌŋɡə/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A need for food",
+          "example": "Hunger is a global issue."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To desire strongly",
+          "example": "She hungers for success."
+        }
+      ]
+    }
+  }
+}

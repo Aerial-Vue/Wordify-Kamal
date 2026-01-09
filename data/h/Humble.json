@@ -1,0 +1,27 @@
+{
+  "humble": {
+    "word": "humble",
+    "phonetic": "/ˈhʌmbl/",
+    "part_of_speech": ["adjective", "verb"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Having or showing a modest view of one's importance",
+          "example": "He is humble despite his success."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To make someone feel less proud or important",
+          "example": "The defeat humbled the team."
+        }
+      ]
+    },
+    "synonyms": ["modest", "meek"],
+    "antonyms": ["proud", "arrogant"],
+    "usage_examples": [
+      "She remained humble after winning.",
+      "Life can humble even the strongest."
+    ]
+  }
+}

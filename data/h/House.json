@@ -1,0 +1,21 @@
+{
+  "house": {
+    "word": "house",
+    "phonetic": "/haʊs/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A building for people to live in",
+          "example": "They bought a new house."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To provide shelter or accommodation",
+          "example": "The hostel houses students."
+        }
+      ]
+    }
+  }
+}

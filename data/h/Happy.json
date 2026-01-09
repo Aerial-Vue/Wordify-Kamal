@@ -1,0 +1,21 @@
+{
+  "happy": {
+    "word": "happy",
+    "phonetic": "/ˈhæpi/",
+    "part_of_speech": ["adjective", "verb"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Feeling or showing pleasure or contentment",
+          "example": "She feels happy today."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To make someone feel happy",
+          "example": "Good news happyed the crowd."
+        }
+      ]
+    }
+  }
+}

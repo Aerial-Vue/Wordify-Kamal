@@ -1,0 +1,15 @@
+{
+  "hidden": {
+    "word": "hidden",
+    "phonetic": "/ˈhɪdn/",
+    "part_of_speech": ["adjective", "verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "Past form of hide",
+          "example": "The treasure was hidden."
+        }
+      ]
+    }
+  }
+}

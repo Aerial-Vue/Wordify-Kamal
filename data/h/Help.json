@@ -1,0 +1,21 @@
+{
+  "help": {
+    "word": "help",
+    "phonetic": "/help/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "Assistance or support",
+          "example": "Thank you for your help."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To assist someone",
+          "example": "He helped his friend."
+        }
+      ]
+    }
+  }
+}

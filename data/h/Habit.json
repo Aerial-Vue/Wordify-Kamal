@@ -1,0 +1,21 @@
+{
+  "habit": {
+    "word": "habit",
+    "phonetic": "/ˈhæbɪt/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A regular behavior",
+          "example": "Reading is a good habit."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To become accustomed",
+          "example": "He habit-ed waking early."
+        }
+      ]
+    }
+  }
+}

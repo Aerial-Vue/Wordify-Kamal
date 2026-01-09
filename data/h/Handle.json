@@ -1,0 +1,21 @@
+{
+  "handle": {
+    "word": "handle",
+    "phonetic": "/ˈhændl/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The part used to hold something",
+          "example": "Door handle."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To deal with or manage",
+          "example": "She handled the situation."
+        }
+      ]
+    }
+  }
+}

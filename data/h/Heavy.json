@@ -1,0 +1,21 @@
+{
+  "heavy": {
+    "word": "heavy",
+    "phonetic": "/ˈhevi/",
+    "part_of_speech": ["adjective", "verb"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Of great weight",
+          "example": "The bag is heavy."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To make heavier",
+          "example": "Rain heavied the soil."
+        }
+      ]
+    }
+  }
+}

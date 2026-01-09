@@ -1,0 +1,21 @@
+{
+  "human": {
+    "word": "human",
+    "phonetic": "/ˈhjuːmən/",
+    "part_of_speech": ["noun", "adjective", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A person",
+          "example": "Humans need food and water."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To make more humane",
+          "example": "The policy was humaned over time."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "hammer": {
+    "word": "hammer",
+    "phonetic": "/ˈhæmə/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A tool for hitting nails",
+          "example": "Use a hammer."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To hit repeatedly",
+          "example": "He hammered the nail."
+        }
+      ]
+    }
+  }
+}

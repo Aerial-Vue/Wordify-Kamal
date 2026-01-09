@@ -1,0 +1,21 @@
+{
+  "health": {
+    "word": "health",
+    "phonetic": "/helθ/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "Physical and mental well-being",
+          "example": "Health is important."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To improve well-being",
+          "example": "Exercise healths the body."
+        }
+      ]
+    }
+  }
+}

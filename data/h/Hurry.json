@@ -1,0 +1,21 @@
+{
+  "hurry": {
+    "word": "hurry",
+    "phonetic": "/ˈhʌri/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "Great haste",
+          "example": "There is no hurry."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To move quickly",
+          "example": "Hurry up!"
+        }
+      ]
+    }
+  }
+}

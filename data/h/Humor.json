@@ -1,0 +1,21 @@
+{
+  "humor": {
+    "word": "humor",
+    "phonetic": "/ˈhjuːmə/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The quality of being funny",
+          "example": "He has good humor."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To comply with",
+          "example": "Please humor me."
+        }
+      ]
+    }
+  }
+}

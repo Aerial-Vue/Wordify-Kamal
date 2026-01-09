@@ -1,0 +1,21 @@
+{
+  "hope": {
+    "word": "hope",
+    "phonetic": "/həʊp/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A feeling of expectation or desire",
+          "example": "There is hope for success."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To want something to happen",
+          "example": "I hope you succeed."
+        }
+      ]
+    }
+  }
+}

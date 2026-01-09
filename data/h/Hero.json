@@ -1,0 +1,21 @@
+{
+  "hero": {
+    "word": "hero",
+    "phonetic": "/ˈhɪərəʊ/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A person admired for bravery",
+          "example": "He is a hero."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To treat as a hero",
+          "example": "The crowd heroed him."
+        }
+      ]
+    }
+  }
+}

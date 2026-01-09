@@ -1,0 +1,21 @@
+{
+  "history": {
+    "word": "history",
+    "phonetic": "/ˈhɪstəri/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "Study of past events",
+          "example": "She studies history."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To record past events",
+          "example": "The event was historied."
+        }
+      ]
+    }
+  }
+}

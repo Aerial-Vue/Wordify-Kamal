@@ -1,0 +1,21 @@
+{
+  "heart": {
+    "word": "heart",
+    "phonetic": "/hɑːt/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The organ that pumps blood",
+          "example": "His heart is strong."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To love deeply",
+          "example": "She hearted the idea."
+        }
+      ]
+    }
+  }
+}

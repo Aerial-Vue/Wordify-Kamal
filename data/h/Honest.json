@@ -1,0 +1,21 @@
+{
+  "honest": {
+    "word": "honest",
+    "phonetic": "/ˈɒnɪst/",
+    "part_of_speech": ["adjective", "verb"],
+    "meanings": {
+      "adjective": [
+        {
+          "definition": "Truthful and sincere",
+          "example": "She is an honest person."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To speak truthfully",
+          "example": "He honested about his mistake."
+        }
+      ]
+    }
+  }
+}

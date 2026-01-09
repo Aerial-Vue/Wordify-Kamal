@@ -1,0 +1,21 @@
+{
+  "honey": {
+    "word": "honey",
+    "phonetic": "/ˈhʌni/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A sweet substance made by bees",
+          "example": "Honey is natural."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To sweeten or flatter",
+          "example": "He honeyed his words."
+        }
+      ]
+    }
+  }
+}

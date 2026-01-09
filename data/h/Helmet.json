@@ -1,0 +1,15 @@
+{
+  "helmet": {
+    "word": "helmet",
+    "phonetic": "/ˈhelmɪt/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To protect with a helmet",
+          "example": "He helmeted himself."
+        }
+      ]
+    }
+  }
+}
