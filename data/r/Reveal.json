@@ -1,0 +1,10 @@
+{
+  "reveal": {
+    "word": "reveal",
+    "phonetic": "/rɪˈviːl/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [{ "definition": "To make known", "example": "Reveal the truth." }]
+    }
+  }
+}

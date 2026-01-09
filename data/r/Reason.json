@@ -1,0 +1,11 @@
+{
+  "reason": {
+    "word": "reason",
+    "phonetic": "/ˈriːzn/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [{ "definition": "A cause or explanation", "example": "There is a reason." }],
+      "verb": [{ "definition": "To think logically", "example": "She reasoned carefully." }]
+    }
+  }
+}

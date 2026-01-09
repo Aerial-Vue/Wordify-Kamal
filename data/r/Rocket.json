@@ -1,0 +1,11 @@
+{
+  "rocket": {
+    "word": "rocket",
+    "phonetic": "/ˈrɒkɪt/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [{ "definition": "A spacecraft", "example": "The rocket launched." }],
+      "verb": [{ "definition": "To rise quickly", "example": "Prices rocketed." }]
+    }
+  }
+}

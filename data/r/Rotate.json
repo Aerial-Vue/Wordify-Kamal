@@ -1,0 +1,10 @@
+{
+  "rotate": {
+    "word": "rotate",
+    "phonetic": "/rəʊˈteɪt/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [{ "definition": "To turn around an axis", "example": "Rotate the wheel." }]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "rhythm": {
+    "word": "rhythm",
+    "phonetic": "/ˈrɪðəm/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [{ "definition": "A repeated pattern of sound", "example": "Music rhythm." }],
+      "verb": [{ "definition": "To move rhythmically", "example": "Waves rhythmed softly." }]
+    }
+  }
+}

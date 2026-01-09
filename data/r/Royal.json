@@ -1,0 +1,11 @@
+{
+  "royal": {
+    "word": "royal",
+    "phonetic": "/ˈrɔɪəl/",
+    "part_of_speech": ["adjective", "verb"],
+    "meanings": {
+      "adjective": [{ "definition": "Related to a king or queen", "example": "Royal family." }],
+      "verb": [{ "definition": "To honor royally", "example": "They royaled the guest." }]
+    }
+  }
+}

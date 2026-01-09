@@ -1,0 +1,11 @@
+{
+  "region": {
+    "word": "region",
+    "phonetic": "/ˈriːdʒən/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [{ "definition": "A specific area", "example": "This region is fertile." }],
+      "verb": [{ "definition": "To divide into regions", "example": "The land was regioned." }]
+    }
+  }
+}

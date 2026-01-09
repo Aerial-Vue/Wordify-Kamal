@@ -1,0 +1,11 @@
+{
+  "result": {
+    "word": "result",
+    "phonetic": "/rɪˈzʌlt/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [{ "definition": "An outcome", "example": "The result was good." }],
+      "verb": [{ "definition": "To occur as a consequence", "example": "It resulted in success." }]
+    }
+  }
+}

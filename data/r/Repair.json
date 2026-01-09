@@ -1,0 +1,10 @@
+{
+  "repair": {
+    "word": "repair",
+    "phonetic": "/rɪˈpeə/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "verb": [{ "definition": "To fix something", "example": "Repair the phone." }]
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "relax": {
+    "word": "relax",
+    "phonetic": "/rɪˈlæks/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [{ "definition": "To rest or become calm", "example": "Relax your mind." }]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "rare": {
+    "word": "rare",
+    "phonetic": "/reə/",
+    "part_of_speech": ["adjective", "verb"],
+    "meanings": {
+      "adjective": [{ "definition": "Uncommon or infrequent", "example": "A rare species." }],
+      "verb": [{ "definition": "To become rare", "example": "Such skills are raring." }]
+    }
+  }
+}

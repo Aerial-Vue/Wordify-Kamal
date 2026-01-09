@@ -1,0 +1,13 @@
+{
+  "reflect": {
+    "word": "reflect",
+    "phonetic": "/rɪˈflekt/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [
+        { "definition": "To throw back light", "example": "The mirror reflected light." },
+        { "definition": "To think deeply", "example": "He reflected on life." }
+      ]
+    }
+  }
+}

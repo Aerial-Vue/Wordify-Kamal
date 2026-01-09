@@ -1,0 +1,11 @@
+{
+  "rapid": {
+    "word": "rapid",
+    "phonetic": "/ˈræpɪd/",
+    "part_of_speech": ["adjective", "verb"],
+    "meanings": {
+      "adjective": [{ "definition": "Very fast", "example": "Rapid growth occurred." }],
+      "verb": [{ "definition": "To speed up", "example": "Events rapidly progressed." }]
+    }
+  }
+}

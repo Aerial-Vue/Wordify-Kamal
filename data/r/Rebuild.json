@@ -1,0 +1,10 @@
+{
+  "rebuild": {
+    "word": "rebuild",
+    "phonetic": "/ˌriːˈbɪld/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [{ "definition": "To build again", "example": "They rebuilt the bridge." }]
+    }
+  }
+}

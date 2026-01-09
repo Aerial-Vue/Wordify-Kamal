@@ -1,0 +1,11 @@
+{
+  "respect": {
+    "word": "respect",
+    "phonetic": "/rɪˈspekt/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [{ "definition": "High regard", "example": "Earn respect." }],
+      "verb": [{ "definition": "To admire", "example": "Respect others." }]
+    }
+  }
+}

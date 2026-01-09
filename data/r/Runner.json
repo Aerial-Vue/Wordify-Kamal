@@ -1,0 +1,11 @@
+{
+  "runner": {
+    "word": "runner",
+    "phonetic": "/ˈrʌnə/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [{ "definition": "One who runs", "example": "A fast runner." }],
+      "verb": [{ "definition": "To run repeatedly", "example": "He runnered errands." }]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "rainbow": {
+    "word": "rainbow",
+    "phonetic": "/ˈreɪnbəʊ/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [{ "definition": "An arc of colors seen after rain", "example": "A rainbow appeared." }],
+      "verb": [{ "definition": "To form or color like a rainbow", "example": "Oil rainbowed on water." }]
+    }
+  }
+}

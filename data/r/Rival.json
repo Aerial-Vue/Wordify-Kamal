@@ -1,0 +1,11 @@
+{
+  "rival": {
+    "word": "rival",
+    "phonetic": "/ˈraɪvəl/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [{ "definition": "A competitor", "example": "Business rivals." }],
+      "verb": [{ "definition": "To compete with", "example": "Teams rival each other." }]
+    }
+  }
+}

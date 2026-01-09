@@ -1,0 +1,11 @@
+{
+  "remote": {
+    "word": "remote",
+    "phonetic": "/rɪˈməʊt/",
+    "part_of_speech": ["adjective", "verb"],
+    "meanings": {
+      "adjective": [{ "definition": "Far away", "example": "A remote village." }],
+      "verb": [{ "definition": "To operate from a distance", "example": "He remoted the system." }]
+    }
+  }
+}

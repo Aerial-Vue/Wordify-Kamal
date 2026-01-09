@@ -1,0 +1,11 @@
+{
+  "rural": {
+    "word": "rural",
+    "phonetic": "/ˈrʊərəl/",
+    "part_of_speech": ["adjective", "verb"],
+    "meanings": {
+      "adjective": [{ "definition": "Related to countryside", "example": "Rural area." }],
+      "verb": [{ "definition": "To make rural", "example": "The land was ruralized." }]
+    }
+  }
+}

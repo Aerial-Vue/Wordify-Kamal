@@ -1,0 +1,11 @@
+{
+  "record": {
+    "word": "record",
+    "phonetic": "/ˈrekɔːd/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [{ "definition": "Stored information", "example": "A medical record." }],
+      "verb": [{ "definition": "To capture data", "example": "Record the meeting." }]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "rich": {
+    "word": "rich",
+    "phonetic": "/rɪtʃ/",
+    "part_of_speech": ["adjective", "verb"],
+    "meanings": {
+      "adjective": [{ "definition": "Having much wealth", "example": "A rich man." }],
+      "verb": [{ "definition": "To enrich", "example": "Soil richened crops." }]
+    }
+  }
+}

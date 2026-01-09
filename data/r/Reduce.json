@@ -1,0 +1,10 @@
+{
+  "reduce": {
+    "word": "reduce",
+    "phonetic": "/rɪˈdjuːs/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [{ "definition": "To make smaller", "example": "Reduce waste." }]
+    }
+  }
+}

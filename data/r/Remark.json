@@ -1,0 +1,11 @@
+{
+  "remark": {
+    "word": "remark",
+    "phonetic": "/rɪˈmɑːk/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [{ "definition": "A comment", "example": "A kind remark." }],
+      "verb": [{ "definition": "To say or notice", "example": "He remarked on it." }]
+    }
+  }
+}

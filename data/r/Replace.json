@@ -1,0 +1,10 @@
+{
+  "replace": {
+    "word": "replace",
+    "phonetic": "/rɪˈpleɪs/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [{ "definition": "To take the place of", "example": "Replace the battery." }]
+    }
+  }
+}

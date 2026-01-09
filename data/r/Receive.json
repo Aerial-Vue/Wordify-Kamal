@@ -1,0 +1,10 @@
+{
+  "receive": {
+    "word": "receive",
+    "phonetic": "/rɪˈsiːv/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [{ "definition": "To get or accept", "example": "She received a gift." }]
+    }
+  }
+}

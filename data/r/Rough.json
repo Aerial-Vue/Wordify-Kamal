@@ -1,0 +1,11 @@
+{
+  "rough": {
+    "word": "rough",
+    "phonetic": "/rʌf/",
+    "part_of_speech": ["adjective", "verb"],
+    "meanings": {
+      "adjective": [{ "definition": "Uneven or harsh", "example": "Rough road." }],
+      "verb": [{ "definition": "To make uneven", "example": "Rough the surface." }]
+    }
+  }
+}

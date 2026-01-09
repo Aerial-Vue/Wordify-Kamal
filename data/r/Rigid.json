@@ -1,0 +1,11 @@
+{
+  "rigid": {
+    "word": "rigid",
+    "phonetic": "/ˈrɪdʒɪd/",
+    "part_of_speech": ["adjective", "verb"],
+    "meanings": {
+      "adjective": [{ "definition": "Stiff or inflexible", "example": "Rigid rules." }],
+      "verb": [{ "definition": "To make stiff", "example": "The metal rigidized." }]
+    }
+  }
+}

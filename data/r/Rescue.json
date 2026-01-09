@@ -1,0 +1,10 @@
+{
+  "rescue": {
+    "word": "rescue",
+    "phonetic": "/ˈreskjuː/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "verb": [{ "definition": "To save from danger", "example": "They rescued the child." }]
+    }
+  }
+}
