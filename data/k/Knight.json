@@ -1,0 +1,15 @@
+{
+  "knight": {
+    "word": "knight",
+    "phonetic": "/naɪt/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To honor with knighthood",
+          "example": "The king knighted him."
+        }
+      ]
+    }
+  }
+}

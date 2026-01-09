@@ -1,0 +1,21 @@
+{
+  "kettle": {
+    "word": "kettle",
+    "phonetic": "/ˈketl/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A container for boiling water",
+          "example": "The kettle is boiling."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To boil or heat in a kettle",
+          "example": "She kettled the water."
+        }
+      ]
+    }
+  }
+}

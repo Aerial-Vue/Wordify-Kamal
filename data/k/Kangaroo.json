@@ -1,0 +1,21 @@
+{
+  "kangaroo": {
+    "word": "kangaroo",
+    "phonetic": "/ˌkæŋɡəˈruː/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A large Australian mammal that moves by jumping",
+          "example": "The kangaroo hopped away."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To move by making sudden jumps",
+          "example": "The car kangarooed over the rough road."
+        }
+      ]
+    }
+  }
+}

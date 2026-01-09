@@ -1,0 +1,21 @@
+{
+  "knife": {
+    "word": "knife",
+    "phonetic": "/naɪf/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A sharp cutting tool",
+          "example": "The knife is sharp."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To cut or stab with a knife",
+          "example": "He knifed the fruit."
+        }
+      ]
+    }
+  }
+}

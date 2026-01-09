@@ -1,0 +1,15 @@
+{
+  "kick": {
+    "word": "kick",
+    "phonetic": "/kɪk/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To strike with the foot",
+          "example": "Kick the ball."
+        }
+      ]
+    }
+  }
+}

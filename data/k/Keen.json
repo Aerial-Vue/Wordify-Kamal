@@ -1,0 +1,15 @@
+{
+  "keen": {
+    "word": "keen",
+    "phonetic": "/kiːn/",
+    "part_of_speech": ["adjective", "verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To long or yearn for",
+          "example": "She keens for success."
+        }
+      ]
+    }
+  }
+}

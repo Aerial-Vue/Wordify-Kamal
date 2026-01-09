@@ -1,0 +1,21 @@
+{
+  "keyhole": {
+    "word": "keyhole",
+    "phonetic": "/ˈkiːhəʊl/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "An opening for a key in a lock",
+          "example": "He peeped through the keyhole."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To shape like a keyhole",
+          "example": "The dress keyholed at the back."
+        }
+      ]
+    }
+  }
+}

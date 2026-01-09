@@ -1,0 +1,15 @@
+{
+  "kidnap": {
+    "word": "kidnap",
+    "phonetic": "/ˈkɪdnæp/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To abduct someone illegally",
+          "example": "The child was kidnapped."
+        }
+      ]
+    }
+  }
+}

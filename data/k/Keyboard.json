@@ -1,0 +1,21 @@
+{
+  "keyboard": {
+    "word": "keyboard",
+    "phonetic": "/ˈkiːbɔːd/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A device with keys for typing",
+          "example": "The keyboard is wireless."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To enter data using a keyboard",
+          "example": "She keyboarded the report."
+        }
+      ]
+    }
+  }
+}

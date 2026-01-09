@@ -1,0 +1,21 @@
+{
+  "knowledge": {
+    "word": "knowledge",
+    "phonetic": "/ˈnɒlɪdʒ/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "Information or understanding gained through experience",
+          "example": "Knowledge is power."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To know or recognize",
+          "example": "She knowledged the facts."
+        }
+      ]
+    }
+  }
+}

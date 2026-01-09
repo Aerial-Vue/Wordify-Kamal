@@ -1,0 +1,21 @@
+{
+  "kitchen": {
+    "word": "kitchen",
+    "phonetic": "/ˈkɪtʃɪn/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A room used for cooking",
+          "example": "The kitchen is clean."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To prepare food",
+          "example": "She kitchened all evening."
+        }
+      ]
+    }
+  }
+}

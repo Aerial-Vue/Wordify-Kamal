@@ -1,0 +1,21 @@
+{
+  "kilogram": {
+    "word": "kilogram",
+    "phonetic": "/ˈkɪləɡræm/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A unit of mass equal to 1000 grams",
+          "example": "One kilogram of rice."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To measure in kilograms",
+          "example": "The goods were kilogrammed."
+        }
+      ]
+    }
+  }
+}

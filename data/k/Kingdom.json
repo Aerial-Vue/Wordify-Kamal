@@ -1,0 +1,21 @@
+{
+  "kingdom": {
+    "word": "kingdom",
+    "phonetic": "/ˈkɪŋdəm/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A country ruled by a king or queen",
+          "example": "The kingdom expanded."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To rule or dominate",
+          "example": "He kingdomed over his territory."
+        }
+      ]
+    }
+  }
+}

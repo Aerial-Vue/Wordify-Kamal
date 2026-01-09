@@ -1,0 +1,15 @@
+{
+  "kneel": {
+    "word": "kneel",
+    "phonetic": "/niːl/",
+    "part_of_speech": ["verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To rest on one or both knees",
+          "example": "He knelt to pray."
+        }
+      ]
+    }
+  }
+}

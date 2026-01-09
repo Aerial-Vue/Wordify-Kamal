@@ -1,0 +1,15 @@
+{
+  "knock": {
+    "word": "knock",
+    "phonetic": "/nɒk/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To strike a surface to attract attention",
+          "example": "Knock before entering."
+        }
+      ]
+    }
+  }
+}

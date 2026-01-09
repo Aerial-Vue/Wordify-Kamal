@@ -1,0 +1,21 @@
+{
+  "kite": {
+    "word": "kite",
+    "phonetic": "/kaɪt/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A light frame flown in the wind",
+          "example": "The kite soared."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To fly a kite",
+          "example": "Children kited in the park."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "kernel": {
+    "word": "kernel",
+    "phonetic": "/ˈkɜːnəl/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The core or essential part",
+          "example": "A kernel of truth."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To form into a kernel",
+          "example": "Ideas kernelled slowly."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "knot": {
+    "word": "knot",
+    "phonetic": "/nɒt/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To tie into a knot",
+          "example": "Knot the rope tightly."
+        }
+      ]
+    }
+  }
+}

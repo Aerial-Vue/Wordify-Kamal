@@ -1,0 +1,21 @@
+{
+  "kindness": {
+    "word": "kindness",
+    "phonetic": "/ˈkaɪndnəs/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "The quality of being friendly and considerate",
+          "example": "Her kindness touched everyone."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To show kindness",
+          "example": "He kindnessed the child."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "knee": {
+    "word": "knee",
+    "phonetic": "/niː/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "noun": [
+        {
+          "definition": "A joint between thigh and leg",
+          "example": "He hurt his knee."
+        }
+      ],
+      "verb": [
+        {
+          "definition": "To strike or support with the knee",
+          "example": "He kneed the ball."
+        }
+      ]
+    }
+  }
+}
