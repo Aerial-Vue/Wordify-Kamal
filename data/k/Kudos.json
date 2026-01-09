@@ -1,0 +1,15 @@
+{
+  "kudos": {
+    "word": "kudos",
+    "phonetic": "/ˈkjuːdɒs/",
+    "part_of_speech": ["noun", "verb"],
+    "meanings": {
+      "verb": [
+        {
+          "definition": "To praise or give credit",
+          "example": "She was kudosed by her peers."
+        }
+      ]
+    }
+  }
+}
