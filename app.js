@@ -47,6 +47,12 @@ function searchWord() {
       return response.json();
     })
     .then(data => {
+      // Check if data is directly the word object (unwrapped)
+      if (data.word || data.meanings) {
+        displayWord(data);
+        return;
+      }
+
       // Handle case sensitivity: input is lowercase, but JSON key might be capitalized
       const key = Object.keys(data).find(k => k.toLowerCase() === input);
       if (key) {
@@ -57,7 +63,7 @@ function searchWord() {
     })
     .catch(error => {
       console.error(error);
-      resultDiv.innerHTML = "❌ Meaning file not found";
+      resultDiv.innerHTML = `❌ ${error.message}`;
     });
 }
 
@@ -66,19 +72,21 @@ function displayWord(wordData) {
   const resultDiv = document.getElementById("result");
 
   let html = `
-    <h2>${wordData.word}</h2>
-    <p><strong>Phonetic:</strong> ${wordData.phonetic}</p>
-    <p><strong>Part of Speech:</strong> ${wordData.part_of_speech.join(", ")}</p>
+    <h2>${wordData.word || "Unknown"}</h2>
+    <p><strong>Phonetic:</strong> ${wordData.phonetic || ""}</p>
+    <p><strong>Part of Speech:</strong> ${wordData.part_of_speech ? wordData.part_of_speech.join(", ") : ""}</p>
   `;
 
-  for (let pos in wordData.meanings) {
-    html += `<h3>${pos.toUpperCase()}</h3>`;
-    wordData.meanings[pos].forEach(item => {
-      html += `
-        <p>• ${item.definition}<br>
-        <em>${item.example}</em></p>
-      `;
-    });
+  if (wordData.meanings) {
+    for (let pos in wordData.meanings) {
+      html += `<h3>${pos.toUpperCase()}</h3>`;
+      wordData.meanings[pos].forEach(item => {
+        html += `
+          <p>• ${item.definition}<br>
+          <em>${item.example || ""}</em></p>
+        `;
+      });
+    }
   }
 
   if (wordData.synonyms) {
