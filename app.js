@@ -23,10 +23,13 @@ function searchWord() {
 
   // Find the word in index.json
   let foundLetter = null;
+  let targetWord = null;
 
   for (let letter in dictionaryIndex) {
-    if (dictionaryIndex[letter].includes(input)) {
+    const match = dictionaryIndex[letter].find(w => w.toLowerCase() === input);
+    if (match) {
       foundLetter = letter.toLowerCase();
+      targetWord = match;
       break;
     }
   }
@@ -37,11 +40,19 @@ function searchWord() {
   }
 
   // Load the word JSON file
-  const wordPath = `./data/${foundLetter}/${input}.json`;
+  const wordPath = `./data/${foundLetter}/${targetWord}.json`;
 
   fetch(wordPath)
     .then(response => {
       if (!response.ok) {
+        // Fallback: Try Capitalized filename if lowercase fails (e.g. happy -> Happy.json)
+        const capitalized = targetWord.charAt(0).toUpperCase() + targetWord.slice(1);
+        if (capitalized !== targetWord) {
+          return fetch(`./data/${foundLetter}/${capitalized}.json`).then(res => {
+            if (!res.ok) throw new Error("File not found");
+            return res.json();
+          });
+        }
         throw new Error("File not found");
       }
       return response.json();
